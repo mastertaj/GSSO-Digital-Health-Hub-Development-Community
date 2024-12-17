@@ -65,7 +65,7 @@ A response team member will review your report, follow up with additional questi
 
 **Attribution**
 
-This code of conduct is adapted from the Open Life Science (OLS) Community Code of Conduct, licensed under CC BY-SA 4.0 and the Infoway Sex-Gender Working Group Code of Conduct. The [CC-BY-SA licence](https://creativecommons.org/share-your-work/cclicenses/) enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+This code of conduct is adapted from the Open Life Science (OLS) Community Code of Conduct, licensed under CC BY 4.0. 
 
 **Contact Information**
 
