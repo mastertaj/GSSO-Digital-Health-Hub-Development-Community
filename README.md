@@ -1,6 +1,6 @@
 **Welcome to the GSSO Research Hub Community**
 
-The GSSO Research Hub Community is a key part of a grant-funded initiative to advance Digital Research Infrastructure (DRI) for equity-oriented digital health systems and standards. Our work focuses on modernizing gender, sex, and sexual orientation (GSSO) information practices within digital health systems, including electronic health records (EHRs), patient portals, and lab information systems. Guided by principles of inclusivity, collaboration, and sustainability, this project aligns with Canada Health Infoway's Action Plan to Modernize GSSO Information Practices.
+The GSSO Research Hub Community is a key part of a grant-funded initiative to advance Digital Research Alliance of Canad (DRA) for equity-oriented digital health systems and standards. Our work focuses on modernizing gender, sex, and sexual orientation (GSSO) information practices within digital health systems, including electronic health records (EHRs), patient portals, and lab information systems. Guided by principles of inclusivity, collaboration, and sustainability, this project aligns with Canada Health Infoway's Action Plan to Modernize GSSO Information Practices in Canadian EHRs.
 
 **Mission and Objectives**
 
@@ -33,7 +33,7 @@ Participation in the GSSO Research Hub Community is open to individuals and orga
 -   **Training and Knowledge Sharing**: Participate in or support training sessions on DRI tools and equity-oriented practices.
 -   **Outreach and Advocacy**: Help disseminate findings and promote inclusive digital health systems through professional networks.
 
-**Code of Conduct**
+**Ethos**
 
 The GSSO Research Hub Community is committed to fostering a respectful and inclusive environment. All participants are expected to:
 
@@ -41,7 +41,7 @@ The GSSO Research Hub Community is committed to fostering a respectful and inclu
 -   Avoid discriminatory, harassing, or harmful behavior.
 -   Uphold the principles of openness, collaboration, and equity in all community activities.
 
-A full Code of Conduct is available upon request.
+Please see our full Code of Conduct for more details.
 
 **Resources and Documentation**
 
@@ -53,11 +53,11 @@ The following resources are available to support community engagement and collab
 
 **Contact Information**
 
-For inquiries or support, please contact us via email at [Insert Contact Email]. You can also join our online workspace at [Insert Platform Link] to connect with other community members.
+For inquiries or support, please contact us via email at email@tbd.com. 
 
 **Acknowledgments**
 
-This project is funded by [Insert Funding Agency], and we extend our gratitude to all collaborators, participants, and organizations for their valuable contributions to this initiative.
+This project is funded by the Digital Research Alliance of Canada, and we extend our gratitude to all collaborators, participants, and organizations for their valuable contributions to this initiative.
 
 **Licensing**
 
