@@ -1,8 +1,15 @@
 **Welcome to the GSSO Digital Health Hub Community**
 
-The GSSO Digital Health Hub Community is a key part of a grant-funded initiative to advance Digital Research Alliance of Canad (DRA) for equity-oriented digital health systems and standards. Our work focuses on modernizing gender, sex, and sexual orientation (GSSO) information practices within digital health systems, including electronic health records (EHRs), patient portals, and lab information systems. Guided by principles of inclusivity, collaboration, and sustainability, this project aligns with Canada Health Infoway's Action Plan to Modernize GSSO Information Practices in Canadian EHRs.
+The GSSO Digital Health Hub Community is a key part of a grant-funded initiative to advance Digital Research Alliance (DRA) of Canada for equity-oriented digital health systems and standards. Our work focuses on modernizing gender, sex, and sexual orientation (GSSO) information practices within digital health systems, including electronic health records (EHRs), patient portals, and lab information systems. Guided by principles of inclusivity, collaboration, and sustainability, this project aligns with Canada Health Infoway's Action Plan to Modernize GSSO Information Practices in Canadian EHRs (the Action Plan).
 
-**Mission and Objectives**
+**Mission, Vision and Objectives**
+
+Our mission is to support the realization of the vision of the Action Plan. This vision is an: "...equity- and SGM-oriented health system that embraces diversity with inclusive organizational policies, culturally competent staff and enabling electronic health record systems to reduce barriers, and improve access, care and outcomes for sexual and gender minorities" by acting as a central Hub to: 
+
+-   Liase, Guide, Assist and Monitor Progress of the Action Plan.
+-   Monitor ongoing modernization efforts accross the country.
+-   Facilitate the formal process needed to reach national consensus on Action Plan items utilizing broad representation and meaningful participation from communities accross Canada.
+-   Collaborate with existing advisory committees and working groups that are focused on GSSO.
 
 The GSSO Digital Health Hub has been established to:
 
@@ -53,11 +60,11 @@ The following resources are available to support community engagement and collab
 
 **Contact Information**
 
-For inquiries or support, please contact us via email at email@tbd.com. 
+For inquiries or support, please contact us via email at kdaviso@uvic.ca. 
 
 **Acknowledgments**
 
-This project is funded by the Digital Research Alliance of Canada, and we extend our gratitude to all collaborators, participants, and organizations for their valuable contributions to this initiative.
+This concept project is funded by the Digital Research Alliance of Canada, and we extend our gratitude to all collaborators, participants, and organizations for their valuable contributions to this initiative.
 
 **Licensing**
 
