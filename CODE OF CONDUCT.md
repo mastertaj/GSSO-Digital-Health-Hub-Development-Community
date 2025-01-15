@@ -1,6 +1,6 @@
 **Introduction**
 
-The GSSO Research Hub Community is committed to fostering a welcoming, inclusive, and harassment-free environment for all participants. This code of conduct outlines our expectations for respectful behavior within the community and provides guidance for reporting and addressing unacceptable conduct. By participating, you agree to uphold these principles and contribute to a collaborative, equitable, and productive community.
+The GSSO Digital Health Hub Community is committed to fostering a welcoming, inclusive, and harassment-free environment for all participants. This code of conduct outlines our expectations for respectful behavior within the community and provides guidance for reporting and addressing unacceptable conduct. By participating, you agree to uphold these principles and contribute to a collaborative, equitable, and productive community.
 
 **Community Principles**
 
@@ -20,7 +20,7 @@ The GSSO Research Hub Community is committed to fostering a welcoming, inclusive
 
 -   Disagree respectfully and strive to understand differing viewpoints.
 -   Avoid blaming or shaming; instead, focus on resolving issues and learning from mistakes.
--   Share airtime during discussions, ensuring all voices are heard.
+-   Share airtime during discussions; do your part to ensure that all voices are invited to be heard.
 
 7.  **Collaborative Learning**
 
@@ -42,7 +42,7 @@ If someone asks you to stop any unwelcome behavior, you must stop immediately.
 
 **Diversity Statement**
 
-We honor and celebrate diversity in all its forms, including but not limited to age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and ability.
+We honor and celebrate diversity in all its forms including but not limited to age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and ability.
 
 We actively work to create a space where all participants feel valued, heard, and supported.
 
@@ -73,4 +73,4 @@ For questions or additional support, please reach out to:
 
 -   kdaviso@uvic.ca
 
-By contributing to the GSSO Research Hub Community, you agree to uphold these standards and help maintain a collaborative and inclusive space for all. Thank you for your participation and commitment to our shared mission.
+By contributing to the GSSO Digital Health Hub Community, you agree to uphold these standards and help maintain a collaborative and inclusive space for all. Thank you for your participation and commitment to our shared mission.
